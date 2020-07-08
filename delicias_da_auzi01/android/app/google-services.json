@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194499645136",
+    "firebase_url": "https://delicias-da-auzi.firebaseio.com",
+    "project_id": "delicias-da-auzi",
+    "storage_bucket": "delicias-da-auzi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194499645136:android:661d89a6bc361bbe4598d5",
+        "android_client_info": {
+          "package_name": "br.com.lucas.delicias_da_auzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194499645136-3lvdq7g07o1f2tmo5mo50emondjgo8hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKG9ErLxDLudaLjXubV0SOJitl4ZUG3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194499645136-3lvdq7g07o1f2tmo5mo50emondjgo8hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
